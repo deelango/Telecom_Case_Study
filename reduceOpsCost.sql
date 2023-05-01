@@ -25,7 +25,7 @@ ALTER TABLE telco_data_opr_cost ADD COLUMN MoneyLostCredit DOUBLE;
 UPDATE telco_data_opr_cost
 SET MoneyLostCredit =
 CASE
-	WHEN PaymentMethod='Credit card (automatic)'  THEN MonthlyCharges*0.015
+    WHEN PaymentMethod='Credit card (automatic)'  THEN MonthlyCharges*0.015
     ELSE null
 END;
 
