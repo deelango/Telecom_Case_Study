@@ -23,12 +23,11 @@ __Technologies:__
 #### Yearly cost for payment by credit card and checks:
 ![my image](./assets/opCost.png)
 
-
 ## <ins> Analysis
 
 #### Reducing Operational Cost
 
-The company is loosing approximately $50,000 a year, this is for a sample size of 7000 with the 
+The company is loosing approximately $105,000 a year, this is for a sample size of 7000 with the 
 following assumptions:
    
    - Analyses data 
