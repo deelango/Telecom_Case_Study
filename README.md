@@ -2,8 +2,7 @@
 
 ## <ins>Introduction
 
-The `Telecom Case Study` analyses the impact operational cost has on the profit margin, by looking through  
-a sample Telecom data set obtained from Kaggle. This information can be used by marketing teams
+The `Telecom Case Study` analyses the impact operational cost has on the profit margin, by looking through a sample Telecom data set obtained from Kaggle. This information can be used by marketing teams
 in Telecom companies to understand the need to incentivize customers to pay using
 pre-authorized debit instead of credit cards or checks.
 
