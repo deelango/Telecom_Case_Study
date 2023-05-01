@@ -19,7 +19,7 @@ __Targeted User:__ This information will be useful for the marketing team in tel
 __Technologies:__
 > <span> SQL | MySQL Workbench | Kaggle </span>
 
-## <ins> Table Structure - Reducing Operation Cost
+## <ins> Table Structure
 
 #### Original table structure:
 ![my image](./assets/originalTable.png)
@@ -31,8 +31,6 @@ __Technologies:__
 ![my image](./assets/opCost.png)
 
 ## <ins> Analysis
-
-#### Reducing Operational Cost
 
 The company is loosing approximately $105,000 a year, this is for a sample size of 7000 with the 
 following assumptions:
