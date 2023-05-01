@@ -2,10 +2,18 @@
 
 ## <ins>Introduction
 
-The `Telecom Case Study` analyses the impact 
+The `Telecom Case Study` analyses the impact operational cost has on the profit margin, by looking through  
+a sample Telecom data set obtained from Kaggle. This information can be used by marketing teams
+in Telecom companies to understand the need to incentivize customers to pay using
+pre-authorized debit instead of credit cards or checks.
 
-Looks into a sample Telecom data to minimize operational cost due to high bank fees from credit card/checks 
-and increase revenue
+__Context:__  As an outcome of a recent lawsuit against MasterCard and Visa, retailers were 
+allowed to pass on the bank processing fees on credit card payment on to the customer. 
+But since CRTC which governs the pricing in Canadian Telecom industry denied approval to this, 
+telecom industry is still facing this bank charge.
+
+__Source:__  
+- https://crtc.gc.ca/eng/archive/2022/2022-335.htm
 
 __Targeted User:__ This information will be useful for the marketing team in telecom companies
 
@@ -38,3 +46,6 @@ following assumptions:
 This number would increase significantly for big companies where the number of active users 
 might cross 1 Million. One way to save this money is by providing incentives to have
 customers pay by pre-authorized debit.
+
+
+
